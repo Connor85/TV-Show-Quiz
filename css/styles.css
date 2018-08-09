@@ -3,3 +3,7 @@
   color: green;
   margin: 30px;
 }
+
+#ross, #rachel, #joey, #chandler, #monica, #pheobe, #none {
+  display: none;
+}
